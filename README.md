@@ -18,11 +18,10 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/ZqgLDgLG/7.png" alt="7"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/TPh90Gnj/8.png" alt="8"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/QtTqLb4H/9.png" alt="9"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/MHJmzQNt/ej1.png" alt="ej1"/></a><br/><br/>
-
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
+ 
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/MHJmzQNt/ej1.png" alt="ej1"/></a><br/><br/>
 
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/wvLD4BMN/ej10.png" alt="ej10"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/cCWwpNtb/ej11.png" alt="ej11"/></a><br/><br/>
