@@ -19,6 +19,10 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/TPh90Gnj/8.png" alt="8"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/QtTqLb4H/9.png" alt="9"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/MHJmzQNt/ej1.png" alt="ej1"/></a><br/><br/>
+
+
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/wvLD4BMN/ej10.png" alt="ej10"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/cCWwpNtb/ej11.png" alt="ej11"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/MHYVxryK/ej12.png" alt="ej12"/></a><br/><br/>
@@ -36,7 +40,6 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/s2BYSmRw/ej8.png" alt="ej8"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/xdWKPmfY/ej9.png" alt="ej9"/></a><br/><br/>
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 4)Video
 
