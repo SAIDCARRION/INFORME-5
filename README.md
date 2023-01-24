@@ -23,6 +23,7 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/wvLD4BMN/ej10.png" alt="ej10"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/cCWwpNtb/ej11.png" alt="ej11"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/MHYVxryK/ej12.png" alt="ej12"/></a><br/><br/>
